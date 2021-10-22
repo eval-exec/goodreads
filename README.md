@@ -1,6 +1,8 @@
 # goodreads crawler
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/eval-exec/goodreads?style=flat-square)](https://goreportcard.com/report/github.com/eval-exec/goodreads)
+[![Coverage](https://codecov.io/gh/eval-exec/goodreads/branch/main/graph/badge.svg)](https://codecov.io/gh/eval-exec/goodreads)
+
 
 ## About The Project
 
