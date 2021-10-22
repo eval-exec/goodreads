@@ -65,8 +65,7 @@ var rootCmd = &cobra.Command{
 
 		log.SetPrefix("goodreads")
 		log.SetFlags(log.LstdFlags | log.Ltime)
-		params := []func(collector *colly.Collector){
-		}
+		params := []func(collector *colly.Collector){}
 		if debugf {
 			params = append(params,
 				colly.Debugger(&debug.LogDebugger{

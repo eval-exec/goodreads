@@ -1,5 +1,10 @@
 # goodreads crawler
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/eval-exec/goodreads?style=flat-square)](https://goreportcard.com/report/github.com/eval-exec/goodreads)
+
+## About The Project
+
+
 ## usage:
 
 - proxy-server: optional
